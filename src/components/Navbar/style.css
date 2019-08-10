@@ -1,0 +1,39 @@
+.navbar {
+  margin-top: 0px;
+  overflow: hidden;
+  background-color: #5133a4;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  /* height: 90px; */
+  padding-bottom: 10px;
+  font-size: 30px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.click {
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 900;
+  text-align: center;
+}
+
+.scores,
+.title {
+  color: white;
+}
+
+title {
+  color: white;
+}

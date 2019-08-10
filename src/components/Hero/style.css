@@ -1,0 +1,33 @@
+.header {
+  background-color: #f1f1f1;
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(2, 0, 1, 0.6),
+      rgba(233, 241, 247, 0.6)
+    ),
+    url(https://www.sedarasecurity.com/wp-content/uploads/2017/12/cuoc-chien-giua-bitcoin-va-altcoin.jpg);
+
+  padding: 30px;
+  min-height: 400px;
+  text-align: center;
+  padding-top: 200px;
+  padding-bottom: 150px;
+  color: white;
+  width: 1600px;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.h1-title {
+  font-weight: 1000px;
+  font-size: 50px;
+}
+.h2-title {
+  font-weight: 1000px;
+}
+
+.jumbotron {
+  padding: 100px;
+  min-height: 400px;
+  text-align: center;
+}

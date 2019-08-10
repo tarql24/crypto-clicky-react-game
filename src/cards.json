@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "BAT",
+    "image": "./images/BAT.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "BTC",
+    "image": "./images/BTC.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Dent",
+    "image": "./images/dent.png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Digibyte",
+    "image": "./images/Digibyte.png",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Ethereum",
+    "image": "./images/ethereum.png",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "FunFair",
+    "image": "./images/FunFair.png",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Litecoin",
+    "image": "./images/litecoin.jpg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Monero",
+    "image": "./images/monero.png",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Omisego",
+    "image": "./images/OMG.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Theta",
+    "image": "./images/theta.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "VeChain",
+    "image": "./images/vechain.png",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Veritaseum",
+    "image": "./images/veritaseum.png",
+    "count": 0
+  }
+]

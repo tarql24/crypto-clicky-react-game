@@ -1,0 +1,10 @@
+.footer {
+  background: #5133a4;
+  height: 70px;
+  position: relative;
+  color: white;
+  overflow: auto;
+  width: 1600px;
+  margin-top: 20px;
+  padding: 20px;
+}
