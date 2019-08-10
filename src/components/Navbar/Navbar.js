@@ -5,7 +5,7 @@ const Navbar = props => (
   <div>
     <nav className="navbar navbar-light ">
       <a href="/" className="click">
-        Clicky Game
+        Crypto Clicky Game
       </a>
       <div className="title">{props.message}</div>
       <div className="scores">
